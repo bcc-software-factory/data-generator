@@ -1,4 +1,4 @@
-# data-generator
+# Data-Generator
 Data generator for example names, adress, PESEL, NIP or number and save to XML or JSON. 
 Next liblary will be use in another test project with generated input data.
 
