@@ -1,6 +1,7 @@
 # Data-Generator
-Data generator for example names, adress, PESEL, NIP or number and save to XML or JSON. 
-Next liblary will be use in another test project with generated input data.
+Data generator to automatically create large sets of random test data. 
+
+For example: create 100k random persons with names, addresses, tax ids, etc. - to test as a list of customers in a web portal. Data created in 'human readable' and correct format, e.g. observing country-specific rules of address formatting or tax id check digits. Results output as XML or JSON.
 
 # License
 Copyright (c) 2017 Jakub Olszewski
